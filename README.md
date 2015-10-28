@@ -18,4 +18,4 @@ TODO:
 
 Any suggestion and modifications are welcome! :)
 
-I was inspired to do this after playing around with [BoxCar2D](http://boxcar2d.com/derpBikeDesigner.html).
+I was inspired to do this after playing around with [BoxCar2D](http://boxcar2d.com/).
