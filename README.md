@@ -2,7 +2,6 @@
 A python implementation of generating cars using genetic programming with Box2D library.
 
 
-![Genetic Cars Demo](http://imgur.com/YMhiwCO)
 <a href="http://www.freeimagehosting.net/commercial-photography/illinois/chicago/"><img src="http://i.imgur.com/1eOpHtF.gif" alt="Chicago commercial photographers"></a>
 
 
