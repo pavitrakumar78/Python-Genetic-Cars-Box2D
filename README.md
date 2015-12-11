@@ -2,7 +2,7 @@
 A python implementation of generating cars using genetic programming with Box2D library.
 
 
-[!car-gif](https://github.com/pavitrakumar78/Python-Genetic-Cars-Box2D/blob/master/geneticcars.gif)
+![car-gif](https://github.com/pavitrakumar78/Python-Genetic-Cars-Box2D/blob/master/geneticcars.gif)
 
 
 ##Libraries used:
