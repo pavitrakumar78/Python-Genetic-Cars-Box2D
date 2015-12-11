@@ -2,11 +2,11 @@
 A python implementation of generating cars using genetic programming with Box2D library.
 
 
-<a href="http://www.freeimagehosting.net/commercial-photography/illinois/chicago/"><img src="http://i.imgur.com/1eOpHtF.gif" alt="Chicago commercial photographers"></a>
+[!car-gif](https://github.com/pavitrakumar78/Python-Genetic-Cars-Box2D/blob/master/geneticcars.gif)
 
 
-Libraries used:
-[Box2D](https://github.com/pybox2d/pybox2d) (dependant on pygame)
+##Libraries used:
+- [Box2D](https://github.com/pybox2d/pybox2d) (dependant on pygame)
 
 
 TODO:
