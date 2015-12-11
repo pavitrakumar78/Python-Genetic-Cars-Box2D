@@ -17,6 +17,8 @@ python genetic_car_sim.py
   
   
   
+  
+  
 TODO:
 - Add GUI to control the properties of the cars (add,delete,modify shape and size)
 - Clean the code
